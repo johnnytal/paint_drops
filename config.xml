@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget id="com.com.raindrops" version="1.17" android-versionCode="116003" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-		<name>Ripples Blues</name>
-		<description>Play the blues with ripples</description>
+		<name>Paintdrops</name>
+		<description>Match the colors</description>
 		<author email="johnnytal9@gmail.com" href="http://www.ilyichgames.com"> Johnny Tal </author>
 		<content src="index.html"/>
 		
